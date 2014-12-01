@@ -30,17 +30,19 @@ Tommy watched in fascination.
 
 "If I was a leaf, I would fly clear across the world," Tommy thought and then ran out into the yard among th swirl of colors.
 
-[4] 
-
-Tommy watched in fascination.
-
-"If I was a leaf, I would fly clear across the world," Tommy thought and then ran out into the yard among th swirl of colors.
-
 
 [5] 
 
 Mrs. Pennington came to the front porch.
 "Tommy, I have your jacket. Please put it on"
+
+[6]
+
+However, there was no Tommy in the front yard. 
+
+"Tommy?"
+
+Tommy was a leaf. He was blowing down the street with the rest of his play-mates.
 
 
 [8] 
@@ -64,7 +66,6 @@ Tommy smiled, ran to the car and got in. He rolled down the back window and look
 [?] 
 
 "Not so fast," she said getting out of the car. "You are not allowed to play in there. Don't you see the smoke?"
-git init
  
 Tommy watched the maple leaf blow against the wall and struggle to get over.  He ran over to get it but was unable to reach it.
 
@@ -101,14 +102,6 @@ Tommy pondered this the best a leaf could ponder.
 "Where do we end up?"
 
 "This is fun," Tommy thought.
-
-[?]
-
-However, there was no Tommy in the front yard. 
-
-"Tommy?"
-
-Tommy was a leaf. He was blowing down the street with the rest of his play-mates.
 
 
 [?]
