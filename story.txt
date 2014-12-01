@@ -48,15 +48,10 @@ Tommy was a leaf. He was blowing down the street with the rest of his play-mates
 
 A maple leaf came close-by, touched him and moved ahead.  Tommy met him shortly, brushed against him, and moved further ahead.  They swirled around and around, hit cars and poles, flew up in the air and then down again.
 
-
 [8]
 
 The maple leaf blew in front of him.  It was bright red with well-defined veins. The sun-light shone through it giving it a brilliance never before seen by a little boy's eyes.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 9af7b7d12ec0285f1cf550919728653b0281d7c6
 [9]  
 
 The wind blew Tommy and the maple leaf along.  Tommy thought of his choices.  He wanted to continue to play.
@@ -68,13 +63,17 @@ The winds shifted and Tommy and the leaf were blown in the direction of the city
 The old leaf didn't follow.  He was blown further down the block and suddenly lifted up high in the air.
 
 
+[10]
 
-<<<<<<< HEAD
-[14] 
-=======
+"Hey", he called out, "the sights up here. They are spectacular. Come and see."
+
+Tommy and the maple leaf ignored him.
+
+"I see something. I see the dump". The old leaf cried out. "I see smoke. Come up here. I see fire."
+
+"I see nothing", the maple leaf said.
+
 [14]
-
->>>>>>> 9af7b7d12ec0285f1cf550919728653b0281d7c6
 
 Tommy saw the fence that surrounded the city dump. He was happy to be with his friend/ THey would have fun in the dump.
 
@@ -88,21 +87,12 @@ Tommy watched the maple leaf blow against the wall and struggle to get over.  He
 
 Mrs. Pennington walked over and took the leap.  She put it in her pocket.
 
-<<<<<<< HEAD
 [16]
 
 "There," she said. "it will be safe until we get home."
 
 Tommy smiled, ran to the car and got in. He rolled down the back window and looked up into the sky. He wondered where the old leaf had gone. Perhaps one day he would see what the old leaf had seen perhaps. 
 
-
-
-
-
-
-
-=======
->>>>>>> 9af7b7d12ec0285f1cf550919728653b0281d7c6
 [?]
 
 "if the wind blows you in that direction," the old leaf said "you will end up in the city dump."
@@ -136,14 +126,6 @@ However, there was no Tommy in the front yard.
 
 
 
-[?]
 
-"Hey", he called out, "the sights up here. They are spectacular. Come and see."
-
-Tommy and the maple leaf ignored him.
-
-"I see something. I see the dump". The old leaf cried out. "I see smoke. Come up here. I see fire."
-
-"I see nothing", the maple leaf said.
 
 
