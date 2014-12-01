@@ -1,6 +1,6 @@
 [1]
 
-It was a windy day. 
+It was a windy day.
 
 The mailman barely made it to the front door. When the door opened, Mrs. Pennington said, "hello", but, before she had a real chance to say "thank you", the mail blew out of the mailman's hands, into the house and the front door slammed in his face. Mrs. Pennington ran to pick up the mail.
 
@@ -15,7 +15,7 @@ Tommy was watching the shutters open and then shut, open and then shut.
 "Be careful", she said. "It's so windy today."
 
 
-[3]   
+[3]
 
 Tommy crawled down from the window-seat and ran to the door. He opened it with a bang. The wind blew fiercely and snatched the newly recovered mail from Mrs. Pennington's hands and blew it even further into the house.
 
@@ -24,15 +24,29 @@ Tommy crawled down from the window-seat and ran to the door. He opened it with a
   Outside, yellow, gold, and red leaves were leaping from swaying trees,
   landing on the roof, jumping off the roof, and then chasing one another down the street in tiny whirlwinds of merriment.
 
-[5] 
+
+
+[5]
 
  Mrs. Pennington came to the front porch.
 "Tommy, I have your jacket. Please put it on"
 
+[6]
+
+However, there was no Tommy in the front yard.
+
+"Tommy?"
+
+Tommy was a leaf. He was blowing down the street with the rest of his play-mates.
+
+[7]
+
+A maple leaf came close-by, touched him and moved ahead.  Tommy met him shortly, brushed against him, and moved further ahead.  They swirled around and around, hit cars and poles, flew up in the air and then down again.
+
 
 [8] The maple leaf blew in front of him.  It was bright red with well-defined veins. The sun-light shone through it giving it a brilliance never before seen by a little boy's eyes.
 
-[14] 
+[14]
 
 Tommy saw the fence that surrounded the city dump. He was happy to be with his friend/ THey would have fun in the dump.
 
@@ -43,22 +57,22 @@ Suddenly, a car pulled up. It was Tommy's mom. Mrs. Pennington wasn't about to l
 
 "There," she said. "it will be safe until we get home."
 
-Tommy smiled, ran to the car and got in. He rolled down the back window and looked up into the sky. He wondered where the old leaf had gone. Perhaps one day he would see what the old leaf had seen perhaps. 
+Tommy smiled, ran to the car and got in. He rolled down the back window and looked up into the sky. He wondered where the old leaf had gone. Perhaps one day he would see what the old leaf had seen perhaps.
 
 
 
-[?] 
+[?]
 
 "Not so fast," she said getting out of the car. "You are not allowed to play in there. Don't you see the smoke?"
 git init
- 
+
 Tommy watched the maple leaf blow against the wall and struggle to get over.  He ran over to get it but was unable to reach it.
 
 Mrs. Pennington walked over and took the leap.  She put it in her pocket.
 
 
 
-[?]  
+[?]
 
 The wind blew Tommy and the maple leaf along.  Tommy thought of his choices.  He wanted to continue to play.
 
@@ -69,9 +83,7 @@ The winds shifted and Tommy and the leaf were blown in the direction of the city
 The old leaf didn't follow.  He was blown futher down the block and suddenly lifted up high in the air.
 
 
-[?]  
 
-A maple leaf came close-by, touched him and moved ahead.  Tommy met him shortly, brushed against him, and moved further ahead.  They swirled around and around, hit cars and poles, flew up in the air and then down again.
 
 [?]
 
@@ -90,29 +102,23 @@ Tommy pondered this the best a leaf could ponder.
 "This is fun," Tommy thought.
 
 
-[?] 
+[?]
 
 Tommy watched in fascination.
 
 "If I was a leaf, I would fly clear across the world," Tommy thought and then ran out into the yard among th swirl of colors.
 
 
-[?]
 
-However, there was no Tommy in the front yard. 
-
-"Tommy?"
-
-Tommy was a leaf. He was blowing down the street with the rest of his play-mates.
 
 
 [?]
 
 "Hey", he called out, "the sights up here. They are spectacular. Come and see."
 
-Tommy and the maple leaf ignored him. 
+Tommy and the maple leaf ignored him.
 
 "I see something. I see the dump". The old leaf cried out. "I see smoke. Come up here. I see fire."
 
-"I see nothing", the maple leaf said. 
+"I see nothing", the maple leaf said.
 
