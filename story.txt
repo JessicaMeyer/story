@@ -55,7 +55,21 @@ A maple leaf came close-by, touched him and moved ahead.  Tommy met him shortly,
 
 The maple leaf blew in front of him.  It was bright red with well-defined veins. The sun-light shone through it giving it a brilliance never before seen by a little boy's eyes.
 
+<<<<<<< HEAD
+[9]  
+
+The wind blew Tommy and the maple leaf along.  Tommy thought of his choices.  He wanted to continue to play.
+
+"Okay," Tommy said, "I will go with you to the dump."
+
+The winds shifted and Tommy and the leaf were blown in the direction of the city dump.
+
+The old leaf didn't follow.  He was blown futher down the block and suddenly lifted up high in the air.
+
+[14] 
+=======
 [14]
+>>>>>>> ff4332c11b94dec8dba48622af9039d21488f5cf
 
 Tommy saw the fence that surrounded the city dump. He was happy to be with his friend/ THey would have fun in the dump.
 
@@ -75,6 +89,8 @@ Mrs. Pennington walked over and took the leap.  She put it in her pocket.
 
 Tommy smiled, ran to the car and got in. He rolled down the back window and looked up into the sky. He wondered where the old leaf had gone. Perhaps one day he would see what the old leaf had seen perhaps. 
 
+<<<<<<< HEAD
+=======
 
 
 The wind blew Tommy and the maple leaf along.  Tommy thought of his choices.  He wanted to continue to play.
@@ -82,8 +98,8 @@ The wind blew Tommy and the maple leaf along.  Tommy thought of his choices.  He
 "Okay," Tommy said, "I will go with you to the dump."
 
 The winds shifted and Tommy and the leaf were blown in the direction of the city dump.
+>>>>>>> ff4332c11b94dec8dba48622af9039d21488f5cf
 
-The old leaf didn't follow.  He was blown futher down the block and suddenly lifted up high in the air.
 
 
 
